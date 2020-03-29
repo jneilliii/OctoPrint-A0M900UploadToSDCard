@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_ao_m990_upload_to_sdcard/templates *
+recursive-include octoprint_ao_m990_upload_to_sdcard/translations *
+recursive-include octoprint_ao_m990_upload_to_sdcard/static *
